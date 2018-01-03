@@ -27,7 +27,7 @@ install.package("devtools")
 ```
  3. Install the regressr package using install_github("author/package") :
 ```
-    devtools::install_github("GeorgetownMcCourt/regressr-library-ghl")
+    devtools::install_github("yhuang/regressr-library-ghl")
 ```
  4. Load the regressr package to use it:
  ```
